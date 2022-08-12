@@ -3,7 +3,7 @@
 백엔드 공부하고 있는 김은빈입니다.<br>
 항상 배움에 대한 열정을 가지고 정진하겠습니다.<br>
 
-I'm Kim Eunbin. I'm studying backend (mainly spring).<br>
+I'm Kim Eunbin. I'm studying backend.<br>
 I will always move forward with passion for learning.<br>
 
 <h3>🚀 Stack</h3>
