@@ -44,6 +44,8 @@ I always move forward with passion for learning.<br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/nginx-0D9358?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 
 <a href="https://wakatime.com/@ee730fb1-0770-4aaf-8b42-b3d1862593e6"><img src="https://wakatime.com/badge/user/ee730fb1-0770-4aaf-8b42-b3d1862593e6.svg"/></a>
