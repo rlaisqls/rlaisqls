@@ -16,12 +16,13 @@ I always move forward with passion for learning.<br>
   <br>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Querydsl-0089CF?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-F01440?style=flat-square&logo=Redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-E61845?style=flat-square&logo=Oracle&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/Redis-F01440?style=flat-square&logo=Redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nginx-0D9358?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 
 <h3>🧰 Tool</h3>
@@ -38,17 +39,15 @@ I always move forward with passion for learning.<br>
 <h3>📚 Learning</h3>
 <p>
   <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-    <br>
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/nginx-0D9358?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 
 <a href="https://wakatime.com/@ee730fb1-0770-4aaf-8b42-b3d1862593e6"><img src="https://wakatime.com/badge/user/ee730fb1-0770-4aaf-8b42-b3d1862593e6.svg"/></a>
