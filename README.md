@@ -8,7 +8,7 @@ I always move forward with passion for learning.<br>
 
 ### Project
 
-- 2023.07 ~ ing : DSM 통합 서비스 [Xquare DevOps](https://)
+- 2023.07 ~ present : DSM 통합 서비스 [Xquare DevOps](https://)
 - 2023.01 ~ 2023.06  : 기숙사 관리 시스템 [DMS Backend](https://github.com/team-aliens/DMS-Backend)
 
 <a href="https://wakatime.com/@ee730fb1-0770-4aaf-8b42-b3d1862593e6"><img src="https://wakatime.com/badge/user/ee730fb1-0770-4aaf-8b42-b3d1862593e6.svg"/></a>
