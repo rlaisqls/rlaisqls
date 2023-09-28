@@ -11,5 +11,10 @@ I always move forward with passion for learning.<br>
 - 2023.07 ~ present : DSM 통합 서비스 [Xquare DevOps](https://team-xquare.notion.site/DevOps-a8693ce0928c465db3a1e598473dda6f)
 - 2023.01 ~ 2023.06  : 기숙사 관리 시스템 [DMS Backend](https://github.com/team-aliens/DMS-Backend)
 
+### Certificate
+
+- 2023.09.27 ~ 2026.09.27: [AWS Solutions Architect Associate](https://www.credly.com/go/kdiSiC5x9hIc4qZ9ENZJqA)
+- 2022.12.02 ~ 2024.12.02: [SQLD](https://github.com/rlaisqls/rlaisqls/files/12748643/SQLD.pdf)
+
 <a href="https://wakatime.com/@ee730fb1-0770-4aaf-8b42-b3d1862593e6"><img src="https://wakatime.com/badge/user/ee730fb1-0770-4aaf-8b42-b3d1862593e6.svg"/></a>
 <a href="https://solved.ac/profile/dopppp"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dopppp"/></a>
