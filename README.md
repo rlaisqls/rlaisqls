@@ -13,7 +13,7 @@ I always move forward with passion for learning.<br>
 
 ### Certificate
 
-- 2023.09.27 ~ 2026.09.27: [AWS Solutions Architect Associate](https://www.credly.com/go/kdiSiC5x9hIc4qZ9ENZJqA)
+- 2023.09.27 ~ 2026.09.27: [AWS Solutions Architect Associate](https://www.credly.com/badges/6a0ebac2-9f16-42ab-942c-2023b9dbd411/public_url)
 - 2022.12.02 ~ 2024.12.02: [SQLD](https://github.com/rlaisqls/rlaisqls/files/12748643/SQLD.pdf)
 
 <a href="https://wakatime.com/@ee730fb1-0770-4aaf-8b42-b3d1862593e6"><img src="https://wakatime.com/badge/user/ee730fb1-0770-4aaf-8b42-b3d1862593e6.svg"/></a>
