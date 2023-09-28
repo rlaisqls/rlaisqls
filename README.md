@@ -8,8 +8,8 @@ I always move forward with passion for learning.<br>
 
 ### Project
 
-- 2023.07 ~ present : DSM 통합 서비스 [Xquare DevOps](https://team-xquare.notion.site/DevOps-a8693ce0928c465db3a1e598473dda6f)
-- 2023.01 ~ 2023.06  : 기숙사 관리 시스템 [DMS Backend](https://github.com/team-aliens/DMS-Backend)
+- 2023.07 ~ present : [DSM 통합 서비스 **Xquare DevOps**](https://team-xquare.notion.site/DevOps-a8693ce0928c465db3a1e598473dda6f)
+- 2023.01 ~ 2023.06  : [기숙사 관리 시스템 **DMS Backend**](https://github.com/team-aliens/DMS-Backend)
 
 ### Certificate
 
