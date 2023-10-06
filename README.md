@@ -15,6 +15,7 @@ I always move forward with passion for learning.<br>
 
 - 2023.09 ~ 2026.09: [AWS Solutions Architect Associate](https://www.credly.com/badges/6a0ebac2-9f16-42ab-942c-2023b9dbd411/public_url)
 - 2022.12 ~ 2024.12: [SQLD](https://drive.google.com/file/d/1_EUx26chma0aaNRcqxzEqeAeW5RnQP-C/view?usp=sharing)
+- 2021.09 ~ : [정보처리기능사](https://drive.google.com/file/d/1uQuLPmIkWSKATpM_YZmaUyRcDeKvESv0/view?usp=sharing)
 
 <a href="https://wakatime.com/@ee730fb1-0770-4aaf-8b42-b3d1862593e6"><img src="https://wakatime.com/badge/user/ee730fb1-0770-4aaf-8b42-b3d1862593e6.svg"/></a>
 <a href="https://solved.ac/profile/dopppp"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dopppp"/></a>
