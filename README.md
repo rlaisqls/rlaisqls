@@ -1,8 +1,7 @@
 ## rlaisqls
 
-- DevOps Engineer
-- Interested in reliable systems, logic, and algorithms.
-- I learn by writing things down.
+- 제 프로필 사진은 도커 데스크톱을 처음 설치했을 때 감격의 마음으로 찍은 모니터 속 Tux입니다.
+- My profile picture is Tux on my monitor, taken to commemorate my first Docker Desktop installation.
 - Blog: https://blog.rlaisqls.com
 
 
